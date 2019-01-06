@@ -6,12 +6,12 @@ Utilzied PyTorch framework for development. Used a NVIDIA GeForce GTX 1070 GPU m
 
 <p align="center">
   <br><br>
-  <b>Training Results</b>
+  <b>Training Results</b><br>
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/train/fin_1.png">
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/train/fin_2.png">
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/train/fin_5.png">
-  <br><br>
-  <b>Testing Results</b>
+  <br><br><br>
+  <b>Testing Results</b><br>
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/test/test_1.png">
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/test/test_5.png">
   <img src="https://github.com/ApurbaSengupta/Super-Resolved-Images/blob/master/results/test/test_6.png">
